@@ -33,7 +33,7 @@
 
 ## Overview
 
-<!-- ![screenshot](https://maik-dev.com/simplesites/recipe-page/assets/Screenshot.PNG) -->
+![screenshot](https://maik-dev.com/simplesites/recipe-page/assets/Screenshot.PNG)
 
 - You can see my demo following [this link](https://maik-dev.com/simplesites/recipe-page/index.html).
 - This demo was developed following a design oriented in mobile first.
